@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/XONAR-LABS/makit-release/releases/latest">下载最新 macOS 版本</a>
+  <a href="https://github.com/MakitHQ/makit-release/releases/latest">下载最新 macOS 版本</a>
 </p>
 
 > [!IMPORTANT]
@@ -65,7 +65,7 @@ Makit 不只是画图工具。它解决的是从“我想做这个产品”到�
 ## 安装
 
 1. 打开
-   [最新版本页面](https://github.com/XONAR-LABS/makit-release/releases/latest)。
+   [最新版本页面](https://github.com/MakitHQ/makit-release/releases/latest)。
 2. 下载 `.dmg` 文件。
 3. 打开磁盘映像，把 **Makit** 拖入 **Applications**。
 4. 启动 Makit，并创建或打开一个项目文件夹。
@@ -92,7 +92,7 @@ AI 模型请求会发送给你配置的模型服务商。
 ## 支持
 
 如果遇到问题，或需要发布版本相关帮助，请在
-[Makit release repository](https://github.com/XONAR-LABS/makit-release/issues)
+[Makit release repository](https://github.com/MakitHQ/makit-release/issues)
 提交 issue，并附上应用版本、macOS 版本、你正在尝试的操作以及相关错误信息。
 
 ## 发布说明
